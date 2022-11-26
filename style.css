@@ -95,6 +95,8 @@
 
 .right-title {
     color: #556774;
+    padding-left: 2rem;
+    
     
 }
 
@@ -104,6 +106,7 @@
 .about-me-contents {
     font-size: 18px;
     color: #556774;
+    
 }
 
 .experience-contents,
@@ -125,7 +128,7 @@
 }
 
 .exp-time-period,
-.educationp-time-period,
+.education-time-period,
 .awards-time-period {
     font-size: 18px;
     padding-left: 1rem;
@@ -135,11 +138,13 @@
 .education-subject,
 .awards-name {
     font-size: 22px;
+    
 }
 
 .exp-desc,
 .education-desc,
 .awards-desc {
+    padding-left: 2rem;
     font-size: 12px;
     padding-left: 5px;
 }
